@@ -1,0 +1,6 @@
+filename: output.csv
+min_len: 1
+max_len: 5
+derivatives: [l,o]
+residues: [Val]
+c_terminal_residues: [Trp]

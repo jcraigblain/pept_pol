@@ -1,0 +1,80 @@
+Ala:
+    formula: CH3
+    name: Alanine
+    code: A
+Cys:
+    formula: CH3S
+    name: Cysteine
+    code: C
+Asp:
+    formula: C2H3O2
+    name: Aspartate
+    code: D
+Glu:
+    formula: C3H5O2
+    name: Glutamate
+    code: E
+Phe:
+    formula: C7H7
+    name: Phenylalanine
+    code: F
+Gly:
+    formula: H
+    name: Glycine
+    code: G
+His:
+    formula: C4H5N2
+    name: Histidine
+    code: H
+Ile:
+    formula: C4H9
+    name: Isoleucine
+    code: I
+Lys:
+    formula: C4H10N
+    name: Lysine
+    code: K
+Leu:
+    formula: C4H9
+    name: Leucine
+    code: L
+Met:
+    formula: C3H7S
+    name: Methionine
+    code: M
+Asn:
+    formula: C2H4NO
+    name: Asparagine
+    code: N
+Pro:
+    formula: C3H5
+    name: Proline
+    code: P
+Gln:
+    formula: C3H6NO
+    name: Glutamine
+    code: Q
+Arg:
+    formula: C4H10N3
+    name: Arginine
+    code: R
+Ser:
+    formula: CH3O
+    name: Serine
+    code: S
+Thr:
+    formula: C2H5O
+    name: Threonine
+    code: T
+Val:
+    formula: C3H7
+    name: Valine
+    code: V
+Trp:
+    formula: C9H8N
+    name: Tryptophan
+    code: W
+Tyr:
+    formula: C7H7O
+    name: Tyrosine
+    code: Y
